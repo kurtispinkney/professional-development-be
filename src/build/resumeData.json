@@ -2,9 +2,10 @@
   "main": {
     "name":"Kurtis Pinkney",
     "occupation":"Scientific Software Engineer",
-    "description":"currently employed to develop operational workflows to process weather satellite data generating meteorological products in near-real time.",
+    "description":"currently employed to develop operational workflows to process weather satellite data generating meteorological products in near-real time",
     "image":"profilepic.jpg",
-    "bio":"",
+    "bio":"I began my career as an atmospheric scientist and used Python to complete my course work and thesis research. Leveraging the programming skills I developed in college, I stumbled my way into a role as a scientific programmer where I've been exposed to a world of project requirements and processes running in production environments. As a result I've dedicated a lot of time, on and off the clock, learning about development best practices and incorporating those lessons learned into my work.",
+    "bio_personal": "In my free time, I've taken to working on a pet project to refine my programming skills and to play with new tools and technologies. Outside of programming, though, I enjoy playing flag football and backpacking with my fiancee and dog. My fiancee also loves plants and gardening, so I've also been recruited to build various plant shelves and boxes as needed to sustain her grow operation. If you're interested in learning more about me feel free to get in touch with me or download my resume for a deeper dive into my professional skills.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "kurtis.pinkney@gmail.com",
     "phone": "808-202-3727",
