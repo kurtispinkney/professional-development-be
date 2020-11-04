@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Kurtis Pinkney",
-    "occupation":"Scientific Software Engineer",
+    "occupation":"Python Developer Team Lead",
     "description":"currently employed to develop operational workflows to process weather satellite data generating meteorological products in near-real time",
     "image":"profilepic.jpg",
     "bio":"I began my career as an atmospheric scientist and used Python to complete my course work and thesis research. Leveraging the programming skills I developed in college, I stumbled my way into a role as a scientific programmer where I've been exposed to a world of project requirements and processes running in production environments. As a result I've dedicated a lot of time, on and off the clock, learning about development best practices and incorporating those lessons learned into my work.",
@@ -11,8 +11,8 @@
     "phone": "808-202-3727",
     "address":{
       "street":"(Your Street)",
-      "city":"Washington D.C.",
-      "state":"(Your State)",
+      "city":"Denver",
+      "state":"Colorado",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.kurtispinkney.com",
@@ -31,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below are some tools and technologies that I've picked up throughout my development journey.",
     "education":[
       {
         "school":"University of Alabama in Huntsville",
@@ -49,9 +49,9 @@
     "work":[
       {
         "company":"I.M. Systems Group",
-        "title":"Data Technician III",
+        "title":"Python Developer Team Lead",
         "years":"December 2017 - Present",
-        "description":"My primary responsibility is to develop operational workflows that process weather satellite data in near-real time utilizing scientific algorithms to generate meteorological products. I work heavily with Python and orchestrate the workflows using Argo to run on Kubernetes clusters, monitoring job statistics stored in InfluxDB and visualized on Grafana dashboards. I've worked my way into a senior position where I mentor more junior employees. Recently, I've been leading the development of multiple utility Python packages that will allow us to get rid of countless lines of duplicate code. Through these projects I've been able to introduce concepts such as unit testing and continuous integration that will be useful as our team tranisitions to a more services oriented architecture."
+        "description":"My primary responsibility is to develop operational workflows that process weather satellite data in near-real time utilizing scientific algorithms to generate meteorological products. I work heavily with Python and orchestrate the workflows using Argo to run on Kubernetes clusters, monitoring job statistics stored in InfluxDB and visualized on Grafana dashboards. I've worked my way into a team lead position where I lead a team of 7-9 developers of varying skill levels in the development and implementation of these workflows. Recently, I've also been leading the development of multiple Python packages that will allow us to get rid of countless lines of duplicate code and decrease development times. Through these projects I've been able to introduce concepts such as unit testing and continuous integration that will be useful as our team tranisitions to a more services oriented architecture and DevOps culture."
       }
     ],
     "skills":[
